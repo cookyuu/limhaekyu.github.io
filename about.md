@@ -1,15 +1,15 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
-description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
-redirect_from:
-  - /download/
+title: About
+permalink: /about/
+more_posts: posts.md
+sidebar: true
+order: 1
 ---
 
-# About
+# About Me
+  - 운동과 음식을 좋아하는 Backend 개발자입니다.
+  - 클린 코드에 관심이 많고 도움이 되는 개발자가 되고 싶습니다.
 
 <!--author-->
 
