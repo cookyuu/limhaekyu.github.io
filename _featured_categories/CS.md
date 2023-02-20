@@ -1,12 +1,18 @@
 ---
+# Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
+# The title of the tag's page.
 title: CS
+# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: cs
 sidebar: true
+# (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  CS 공부를 기록하는 카테고리입니다.
+  Computer Science와 관련된 정보를 기록하는 곳입니다.
 type: category
 menu : true
-submenu: true
+submenu: false
 order: 3
+# (Optional) You can disable grouping posts by date.
+# no_groups: true
 ---

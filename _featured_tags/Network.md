@@ -7,5 +7,5 @@ slug: network
 sidebar: true
 order: 2
 description: >
-  CS지식 중 Network에 관한 내용을 공부한 카테고리입니다.
+  Network에 대한 정보를 기록하는 카테고리입니다.
 ---

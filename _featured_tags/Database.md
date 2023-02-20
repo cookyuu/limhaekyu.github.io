@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-category: cs
 title: Database
 slug: database
+category: cs
 sidebar: true
 order: 1
 description: >
-  CS지식 중 Database에 관한 내용을 공부한 카테고리입니다.
+   Database 관련 정보 공유 및 공부를 기록하는 카테고리입니다.
 ---
