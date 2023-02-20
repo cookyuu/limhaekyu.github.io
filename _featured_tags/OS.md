@@ -2,10 +2,10 @@
 layout: tag-list
 type: tag
 category: cs
-title: Database
-slug: database
+title: OS
+slug: os
 sidebar: true
-order: 1
+order: 3
 description: >
-  CS지식 중 Database에 관한 내용을 공부한 카테고리입니다.
+  OS에 대한 정보를 담는 카테고리입니다.
 ---
